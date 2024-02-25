@@ -1,19 +1,94 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-  color: black;
-  background-color: white;
-}
-
-
- body {
+*, *::before, *::after {
   margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  padding: 0;
+  box-sizing: border-box;
 }
 
+body {
+  background-image: url("./assets/background.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+.anime-list {
+  display: flex;
+  flex-direction: row;
+  width:  95%;
+  background-color: rgba(155, 155, 155, 0.8);
+  border-radius: 25px;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  gap: 50px;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+.button-container {
+  outline: blue solid 2px;
+  height: 20%;
+}
+
+.button {
+  width: 50%;
+  height: 100%;
+}
+
+
+.anime-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  width: 20%;
+  outline: red solid 2px;
+  text-align: center;
+  background-color: gray;
+  border-radius: 25px;
+  margin-bottom: 5%;
+}
+
+.card-image-container {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: middle;
+  text-align: center;
+  outline: red solid 2px;
+}
+
+.card-image-container:hover {
+  filter: blur(10px);
+}
+
+.card-image {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.card-title {
+  position: relative;
+  font-size: 25px;
+  color: aqua;
+  z-index: 1;
+
+}
+
+.app-title {
+  color: rgb(255, 255, 255);
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  /* text-shadow: 0 0 3px #000000; */
+}
