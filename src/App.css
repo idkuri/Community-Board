@@ -89,10 +89,11 @@ body {
   width: 300px;
   font-family: "Poppins", "sans-serif";
   text-align: center;
-  background-color: gray;
+  background-color: rgb(255, 255, 255);
   border-radius: 25px;
   margin-bottom: 5%;
   transition: all 0.2s linear;
+  cursor: pointer;
 }
 
 .anime-card:hover {

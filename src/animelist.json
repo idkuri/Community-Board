@@ -36,23 +36,37 @@
     },
     {
         "id": 6,
-        "name": "Solo Leveling",
-        "mal_link": "https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken?q=Solo%20leve&cat=anime",
-        "crunchy_link": "https://www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling",
-        "image_path": "https://example.com/solo_leveling_image.jpg"
+        "name": "Nagi no Asu kara",
+        "mal_link": "https://myanimelist.net/anime/16067/Nagi_no_Asu_kara?q=nagi%20no%20asu&cat=anime",
+        "crunchy_link": "https://www.crunchyroll.com/series/GRNQJ57XR/nagi-no-asukara-nagi-asu-a-lull-in-the-sea",
+        "image_path": "https://cdn.myanimelist.net/images/anime/9/43291l.jpg"
     },
     {
         "id": 7,
-        "name": "Solo Leveling",
-        "mal_link": "https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken?q=Solo%20leve&cat=anime",
-        "crunchy_link": "https://www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling",
-        "image_path": "https://example.com/solo_leveling_image.jpg"
+        "name": "Bocchi the Rock!",
+        "mal_link": "https://myanimelist.net/anime/47917/Bocchi_the_Rock?q=Bocchi%20the%20rock&cat=anime",
+        "crunchy_link": "https://www.crunchyroll.com/series/GXJHM3P19/bocchi-the-rock",
+        "image_path": "https://cdn.myanimelist.net/images/anime/1294/125289l.jpg"
     },
     {
         "id": 8,
-        "name": "Solo Leveling",
-        "mal_link": "https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken?q=Solo%20leve&cat=anime",
-        "crunchy_link": "https://www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling",
-        "image_path": "https://example.com/solo_leveling_image.jpg"
+        "name": "Maquia",
+        "mal_link": "https://myanimelist.net/anime/35851/Sayonara_no_Asa_ni_Yakusoku_no_Hana_wo_Kazarou?q=Maquia&cat=anime",
+        "crunchy_link": "https://www.crunchyroll.com/series/G5PHNM731/maquia-when-the-promised-flower-blooms",
+        "image_path": "https://cdn.myanimelist.net/images/anime/7/89555l.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Code Geass",
+        "mal_link": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch?q=code%20geass&cat=anime",
+        "crunchy_link": "https://www.crunchyroll.com/series/GY2P9ED0Y/code-geass",
+        "image_path": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Yubisaki to Renren",
+        "mal_link": "https://myanimelist.net/anime/55866/Yubisaki_to_Renren/pics",
+        "crunchy_link": "https://www.crunchyroll.com/series/GEXH3W2V7/a-sign-of-affection",
+        "image_path": "https://cdn.myanimelist.net/images/anime/1188/139825l.jpg"
     }
 ]
