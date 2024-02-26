@@ -39,7 +39,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Main issues I've had with this project is deciding how to design it and finding the assets to create the web app.
 
 ## License
 
