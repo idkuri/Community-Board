@@ -2,7 +2,7 @@
 
 Submitted by: **Andrew Cao**
 
-This web app: **insert description**
+This web app: Provides a list of my 10 anime recommendations
 
 Time spent: **5** hours spent in total
 
