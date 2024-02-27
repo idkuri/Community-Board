@@ -1,8 +1,4 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
-import background from "./assets/background.png"
 import AnimeCard from './components/AnimeCard'
 import animelist from "./animelist.json"
 

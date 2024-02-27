@@ -7,7 +7,7 @@ const AnimeCard = ({name, mal_link, crunchy_link, img_path}) => {
         <div className='anime-card'>
             <h1 className='card-title'>{name}</h1>
             <div className='card-image-container'>
-                <img className='card-image' src={img_path} alt="Solo Leveling"></img>
+                <img className='card-image' src={img_path} alt={name}></img>
             </div>
             <div className='button-container'>
                 <button className='button-left' onClick={() => {window.open(mal_link)}}>
